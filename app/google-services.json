@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183255389188",
+    "project_id": "turecetaapp",
+    "storage_bucket": "turecetaapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183255389188:android:2128d04f13da1258efd151",
+        "android_client_info": {
+          "package_name": "com.example.turecetaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo_yOyt6UlKRDnwiJuqravFfCb6R_1da4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
